@@ -1,4 +1,4 @@
-# Message Receiver
+# Message Receiver And Forwarder
 
 An Android application built to parse OTP (One-Time Password) messages in the background and send the extracted data to a specified client. This project is designed to streamline OTP retrieval and forwarding for automated processes or external services.
 
